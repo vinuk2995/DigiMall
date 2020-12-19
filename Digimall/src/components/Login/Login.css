@@ -1,0 +1,33 @@
+/* .ant-form{
+    margin: 15% 15% 15% 15%;
+}
+
+.backImage{
+    background-color : aliceblue;
+    border: solid;
+} */
+
+.LoginForm{
+    margin: 5% 28% 0 27%;
+    background-color : white;
+    border: solid 2px;
+    border-color: #ec307a;
+   }
+   .headerName{
+       margin: 4% 0 4% 0% ;
+       /* padding-top: 3%; */
+       background-color : #ec307a;
+
+   }
+   .logoLogin{
+       width: 100%;
+       /* height : 30%; */
+       display: flex;
+       margin-bottom: 3%;
+       background-color: #ee6e73;
+   }
+   
+   .main{
+       /* display: flex;  */
+   }
+   
